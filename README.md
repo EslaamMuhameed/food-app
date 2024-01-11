@@ -1,16 +1,33 @@
-# newwork
+# food  App
+![Flutter version](https://img.shields.io/badge/Flutter-Version%203.3.2-blue) ![Dart version](https://img.shields.io/badge/Dart-Version%202.18.1-blue) ![Super Kheir](https://img.shields.io/badge/Sample%20Version-Version%201.0.0-green)
 
-A new Flutter project.
+## Installation steps
 
-## Getting Started
+Open CMD where you want to clone the project & run the following commands
 
-This project is a starting point for a Flutter application.
+```
+git clone https://github.com/EslaamMuhameed/](https://github.com/EslaamMuhameed/food-app-ui.git
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Android Studio](https://developer.android.com/studio/install) - How to install Android Studio
+- [VS Code](https://code.visualstudio.com/) - How to install VS Code
+- [Flutter](https://flutter.dev) - Flutter Official website
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+- <div class="row">
+    <img src="https://github.com/EslaamMuhameed/food-app-ui/blob/main/assets/1.jpg" align="left" height=30% width=31%/>
+
+    <img src="https://github.com/EslaamMuhameed/food-app-ui/blob/main/assets/2.jpg" align="center" height=30% width=31%/>
+  
+    <img src="https://github.com/EslaamMuhameed/food-app-ui/blob/main/assets/3.jpg" align="right" height=30% width=31%/>
+  </div>
+ 
+
+
+
+
+
