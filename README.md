@@ -19,11 +19,11 @@ flutter run
 
 
 - <div class="row">
-    <img src="https://github.com/EslaamMuhameed/food-app-ui/blob/main/assets/1.jpg" align="left" height=30% width=31%/>
+    <img src="https://github.com/EslaamMuhameed/food-app-ui/blob/main/assets/1.jpg" align="left" height=30% width=27%/>
 
-    <img src="https://github.com/EslaamMuhameed/food-app-ui/blob/main/assets/2.jpg" align="center" height=30% width=31%/>
+    <img src="https://github.com/EslaamMuhameed/food-app-ui/blob/main/assets/2.jpg" align="center" height=30% width=27%/>
   
-    <img src="https://github.com/EslaamMuhameed/food-app-ui/blob/main/assets/3.jpg" align="right" height=30% width=31%/>
+    <img src="https://github.com/EslaamMuhameed/food-app-ui/blob/main/assets/3.jpg" align="right" height=30% width=27%/>
   </div>
  
 
